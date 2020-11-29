@@ -81,7 +81,7 @@ namespace AssignmentOneDennisL
                 }
                 else
                 {
-                    Console.Write("Wrong input, enter a Operator: ");
+                    Console.Write("Wrong input! Enter a Operator: ");
                     wrongInput = true;
                 }
             }
@@ -101,7 +101,7 @@ namespace AssignmentOneDennisL
                 }
                 else
                 {
-                    Console.Write("Wrong input, enter a Number: ");
+                    Console.Write("Wrong input! Enter a Number: ");
                     wrongInput = true;
                 }
             }
@@ -120,7 +120,7 @@ namespace AssignmentOneDennisL
                 }
                 else
                 {
-                    Console.Write("Wrong input, enter y/n: ");
+                    Console.Write("Wrong input! enter y/n: ");
                     wrongInput = true;
                 }
             }
