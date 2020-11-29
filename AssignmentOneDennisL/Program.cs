@@ -51,7 +51,7 @@ namespace AssignmentOneDennisL
                     Console.WriteLine("More then a hundred.");
                 }
 
-                Console.WriteLine("Try again? Y/n");
+                Console.WriteLine("Try again? y/n");
                 retry = CheckUserInputForRetry();
 
                 if (retry == "Y" || retry == "y")
@@ -120,7 +120,7 @@ namespace AssignmentOneDennisL
                 }
                 else
                 {
-                    Console.Write("Wrong input! enter y/n: ");
+                    Console.Write("Wrong input! Enter y/n: ");
                     wrongInput = true;
                 }
             }
